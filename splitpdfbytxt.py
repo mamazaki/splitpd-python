@@ -1,3 +1,4 @@
+# create by @mamazaki and use chatgpt
 import PyPDF2
 import os
 
