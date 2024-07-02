@@ -28,6 +28,11 @@ py splitpdfbytxt.py
 
 4. The script will create separate PDF files based on the specifications in the TXT file.
 
+``` name.txt
+file1,1
+file2,2
+file3,3
+```
 ---
 
 สคริปต์ Python นี้ใช้สำหรับแยกไฟล์ PDF ตามหมายเลขหน้าที่ระบุในไฟล์ข้อความ (TXT) โดยใช้งานไลบรารี PyPDF2 เพื่อสร้างไฟล์ PDF ใหม่สำหรับแต่ละช่วงหน้าที่ระบุ.
@@ -57,3 +62,9 @@ py splitpdfbytxt.py
 ```
 
 4. สคริปต์จะสร้างไฟล์ PDF แยกตามที่ระบุในไฟล์ TXT.
+   
+``` name.txt
+file1,1
+file2,2
+file3,3
+```
